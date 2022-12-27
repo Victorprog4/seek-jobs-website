@@ -73,7 +73,7 @@ yarn start
                 Victorprog4
             </a>
             <p style="font-weight:bold">
-                Front-end & Product Owner
+                Front-end & <br> Product Owner
             </p>
         </td>
         <!--Andersson Gonçalves-->
