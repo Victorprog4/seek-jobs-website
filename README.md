@@ -69,7 +69,7 @@ yarn start
                 src="https://avatars.githubusercontent.com/u/100080203?v=4"
             >
             <br>
-            <a href="https://github.com/LukasdeSouza">
+            <a href="https://github.com/Victorprog4">
                 Victorprog4
             </a>
             <p style="font-weight:bold">
